@@ -1,0 +1,237 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{setspace}
+\usepackage{hyperref}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+\usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Francisco (Cisco) Zabala} \\ \vspace{6pt}
+    \small 626-486-6895 $|$ \href{mailto:zabala@caltech.edu}{\underline{zabala@caltech.edu}} $|$ 
+    \href{https://linkedin.com/in/datasith}{\underline{linkedin.com/in/datasith}} $|$
+    \href{https://datasith.io}{\underline{datasith.io}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {California Institute of Technology}{Pasadena, CA}
+      {PhD Candidate}{May 2011 -- May 2013}
+       \\ \vspace{-8pt}
+    \resumeSubheading
+      {}{}
+      {Master of Engineering}{Aug 2009 -- May 2011}
+    \resumeSubheading
+      {California State University, Fullerton}{Fullerton, CA}
+      {Bachelor of Science in Electrical and Computer Engineering}{Aug 2003 -- May 2007}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Lead Data Scientist}{Jan 2022 -- Present}
+      {Walmart Global Tech}{Sierra Madre, CA (Remote)}
+      \resumeItemListStart
+        \resumeItem{Training Neural Nets for Object Recognition and Tracking applications}
+        \resumeItem{Architecting End-to-End Machine Learning solutions spanning three product initiatives}
+        \resumeItem{Devising scaling strategies for deploying a CV-based Inventory Tracking System across 4700+ stores}
+      \resumeItemListEnd
+      
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+    \resumeSubheading
+      {Machine Learning Researcher}{Aug 2021 -- Jan 2022}
+      {Store No. 8}{Sierra Madre, CA (Remote)}
+      \resumeItemListStart
+        \resumeItem{Contributed to the {fastest} incubation project to graduate from Store No. 8 into \emph{Walmart Global Tech}}
+        \resumeItem{Implemented heuristic algorithms for determining On-Shelf Availability of retail products}
+        \resumeItem{Trained Neural Net ensembles for Object Recognition and Tracking in densely packed images}
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Chief Project Engineer}{Jun 2013 -- Jul 2021}
+      {ACROBOTIC Industries}{Pasadena, CA}
+      \resumeItemListStart
+        \resumeItem{Managed a technical apprenticeship program in partnership with two local community colleges}
+        \resumeItem{Launched and successfully delivered 3 hardware products on Kickstarter}
+        \resumeItem{Created tutorials and demos on YouTube growing an audience of 30k+ subscribers}
+      \resumeItemListEnd
+      
+    \resumeSubheading
+      {Machine Learning Engineer}{May 2012 -- May 2013}
+      {IO Rodeo}{Pasadena, CA}
+      \resumeItemListStart
+        \resumeItem{Manufactured custom lab instrumentation for behavioral studies of fruit flies}
+        \resumeItem{Developed Control and Human-Machine interfaces for interactive lab instruments}
+        \resumeItem{Designed custom PCBs and mechanical assemblies using ECAD/CAD software}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Perpetual Inventory} $|$ \emph{Python, Android, PyTorch, TensorFlow, GCP}}{}
+          \resumeItemListStart
+            \resumeItem{Combined heuristic algorithms and Convolutional Nets to detect and classify retail product images in real-time}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{Robot-Fly Interactions} $|$ \emph{Python, ROS, Arduino (C++)}}{}
+          \resumeItemListStart
+            \resumeItem{Developed a vision-based, real-time apparatus for quantifying interactions between real and robotic flies}
+            \resumeItem{Publication: \href{https://pubmed.ncbi.nlm.nih.gov/22727703/}{\underline{https://pubmed.ncbi.nlm.nih.gov/22727703/}}}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{Insect Flight Kinematics} $|$ \emph{Python, Matlab}}{}
+          \resumeItemListStart
+            \resumeItem{Developed a high-speed videography apparatus for imaging wing and body motion of insects}
+            \resumeItem{Implemented Unsupervised Learning methods (k-means clustering) for quantifying insect flight kinematics}
+            \resumeItem{Publication: \href{https://pubmed.ncbi.nlm.nih.gov/22727703/}{\underline{https://pubmed.ncbi.nlm.nih.gov/19376952/}}}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+          {\textbf{DARPA Urban Challenge} $|$ \emph{C++, Electromechanical Hardware}}{}
+          \resumeItemListStart
+            \resumeItem{Implemented a vision-based algorithm for our team vehicle to perform k-turns}
+            \resumeItem{Assisted in electromechanical retrofitting of our team vehicle's hardware for driverless operation}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\onehalfspacing
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Java, Python, C/C++, JavaScript, HTML/CSS, Matlab} \\
+     \textbf{Developer Tools}{: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm} \\
+     \textbf{Libraries}{: Pandas, NumPy, Matplotlib, Keras, TensorFlow, PyTorch}
+    }}
+ \end{itemize}
+
+%-------------------------------------------
+\end{document}
