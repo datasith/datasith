@@ -3,7 +3,7 @@
 ## Hi, I'm Cisco.
 
 ### About Me
-> I am a Data Scientist at Walmart Global Tech.
+> I am a Data Scientist at a Tech Company.
 
 <!-- [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/3JzSZnHC)-->
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=999999&up_message=online&url=https%3A%2F%2Fdatasith.io%2F)](https://datasith.io/) 
