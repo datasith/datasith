@@ -11,9 +11,9 @@
 <img width="825px" height="1">
 <p>• I am a Data Scientist at a Tech Company </p>
 <p>• My background is a mix of Electrical Engineering, Robotics, and Computer Vision </p>
-<p>• I run a <b><a href="https://youtube.com/datasith">YouTube channel</a></b> to teach *anyone* about DIY Electronics and Data Science</p>
-<p>• I'm interested in Machine Learning, Computer Vision, Extended Reality, and Responsible AI</p>
-<p>• When I'm not coding I enjoy running, snowboarding, and playing/watching fútbol!</p>
+<p>• My work is in the areas of Machine Learning, Computer Vision, Extended Reality, and Responsible AI</p>
+<p>• When I'm not coding I enjoy running 🏃, snowboarding 🏂, and playing/watching fútbol ⚽</p>
+<p>• I also run a <b><a href="https://youtube.com/datasith">YouTube channel</a></b> to teach *anyone* about DIY Electronics and Data Science</p>
 </td>
 </tr>
 </table>
@@ -36,7 +36,7 @@
     <a href="">:books: Read more</a>
   </td>
   <td>
-    <img src="https://website-articles.angular-buch.com/blog/2021-11-angular13/angular13.jpg" alt="Banner" width="400px">
+    <img src="img/alice.jpg" alt="Banner" width="400px">
   </td>
 </tr>
 
