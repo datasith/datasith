@@ -2,15 +2,20 @@
 
 ## Hi! I'm Cisco aka @datasith.
 
-### About Me
+<div>
 <table><tr>
-  <td><blockquote>
-    • I am a Data Scientist at a Tech Company <br/>
-• My background comprises Electrical Engineering, Robotics, and Computer Vision <br/>
-    • I run a <b><a href="https://youtube.com/datasith">YouTube channel</a></b> to teach *anyone* about DIY Electronics and Data Science <br/>
-    </blockquote><td/>
-    <td><img src=""></td>
-</tr></table>
+<td  style="width:150px">
+<img width="175px" src="img/pfp.jpg">
+</td>  
+<td>
+<img width="925px" height="1">
+<p>• I am a Data Scientist at a Tech Company </p>
+<p>• My background is a mix of Electrical Engineering, Robotics, and Computer Vision </p>
+<p>• I run a <b><a href="https://youtube.com/datasith">YouTube channel</a></b> to teach *anyone* about DIY Electronics and Data Science</p>
+</td>
+</tr>
+</table>
+</div>
 ### Connect
 Feel encouraged to reach out!
 
