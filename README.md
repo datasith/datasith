@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datasith" alt="datasith" /> </p>
 
-## Hi! I'm Cisco | @datasith
+## Hi, I'm Cisco! | @datasith
 
 <div>
 <table><tr>
@@ -31,16 +31,23 @@
 ### Projects
 <table><tr>
   <td>
+    <h3>:fly: Tracking Insect Wings and Body Kinematics</h3>
+    <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume..</p>
+    <a href="">:books: Read more</a>
+  </td>
+  <td>
+    <img src="img/rig_flytrax.jpg" alt="Flytrax Motion Capture Rig" width="400px">
+  </td>
+</tr><tr> 
+  <td>
     <h3>:robot: Team Caltech - DARPA Urban Challenge</h3>
     <p>Together with fellow students, post-docs, and professors, we built an autonomous ground vehicle capable of maneuvering a 60 mile course in a mock urban environment in under 6 hours.</p>
     <a href="">:books: Read more</a>
   </td>
   <td>
-    <img src="img/alice.jpg" alt="Banner" width="400px">
+    <img src="img/team_caltech.jpg" alt="Team Caltech at DGC '08" width="400px">
   </td>
-</tr>
-
-</table>
+</tr></table>
 
 
 
