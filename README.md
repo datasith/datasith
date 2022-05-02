@@ -31,8 +31,17 @@
 ### Projects
 <table><tr>
   <td>
+    <h3>:robot: Studying Robot-Fly Visual Interactions</h3>
+    <p>Together with <a href="https://github.com/peterpolidoro">@peterpolidoro</a>, we built a real-time, vision-based controlled, XY-stage to move a magnet within a chamber to study visually mediated responses of walking fruit flies.</p>
+    <a href="">:books: Read more</a>
+  </td>
+  <td>
+    <img src="img/rig_flyatar.jpg" alt="Flyatar Robot-Fly Interactions Rig" width="400px">
+  </td>
+</tr><tr>   
+  <td>
     <h3>:fly: Tracking Insect Wings and Body Kinematics</h3>
-    <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume..</p>
+    <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume.</p>
     <a href="">:books: Read more</a>
   </td>
   <td>
@@ -40,7 +49,7 @@
   </td>
 </tr><tr> 
   <td>
-    <h3>:robot: Team Caltech - DARPA Urban Challenge</h3>
+    <h3>:racing_car: Team Caltech - DARPA Urban Challenge</h3>
     <p>Together with fellow students, post-docs, and professors, we built an autonomous ground vehicle capable of maneuvering a 60 mile course in a mock urban environment in under 6 hours.</p>
     <a href="">:books: Read more</a>
   </td>
