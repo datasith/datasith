@@ -11,7 +11,7 @@
 <img width="825px" height="1">
 <p>• I am a Data Scientist </p>
 <p>• My background is a mix of Electrical Engineering, Robotics, and Computer Vision </p>
-<p>• My Machine and Deep Learning work is in Computer Vision, Extended Reality, and Autonomous Vechicles</p>
+<p>• My Machine and Deep Learning work is in Computer Vision applications, such as Extended Reality and Autonomous Vechicles</p>
 <p>• I also run a <b><a href="https://youtube.com/datasith">YouTube channel</a></b> to teach *anyone* about DIY Electronics and Data Science</p>
 <p>• When I'm not coding, I enjoy running 🏃 snowboarding 🏂 and playing/watching fútbol ⚽</p>
 </td>
