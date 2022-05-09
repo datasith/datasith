@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datasith" alt="datasith" /> </p>
 
-## Hi, I'm Cisco! | @datasith
+## Hi, I'm Cisco! <> @datasith
 
 <div>
 <table><tr>
