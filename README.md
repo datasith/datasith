@@ -33,7 +33,7 @@
   <td>
     <h3>:robot: Studying Robot-Fly Visual Interactions</h3>
     <p>Together with <a href="https://github.com/peterpolidoro">@peterpolidoro</a>, we built a real-time, vision-based controlled, XY-stage to move a magnet within a chamber to study visually mediated responses of walking fruit flies. (<a href="https://pubmed.ncbi.nlm.nih.gov/22727703/">publication</a>)</p>
-    <a href="">:books: Read more</a>
+    <a href="">:books: Learn more</a>
   </td>
   <td>
     <img src="img/rig_flyatar.jpg" alt="Flyatar Robot-Fly Interactions Rig" width="400px">
@@ -42,7 +42,7 @@
   <td>
     <h3>:fly: Tracking Insect Wings and Body Kinematics</h3>
     <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume. (<a href="https://journals.biologists.com/jeb/article/212/9/1307/19160/Wing-and-body-motion-during-flight-initiation-in">publication</a>)</p>
-    <a href="">:books: Read more</a>
+    <a href="">:books: Learn more</a>
   </td>
   <td>
     <img src="img/rig_flytrax.jpg" alt="Flytrax Motion Capture Rig" width="400px">
@@ -51,7 +51,7 @@
   <td>
     <h3>:racing_car: Team Caltech - DARPA Urban Challenge</h3>
     <p>Together with fellow students, post-docs, and professors, we built an autonomous ground vehicle capable of maneuvering a 60 mile course in a mock urban environment in under 6 hours.</p>
-    <a href="">:books: Read more</a>
+    <a href="https://medium.com/@datasith/how-to-fall-in-love-with-computer-vision-4f899ff51ecd">:books: Learn more</a>
   </td>
   <td>
     <img src="img/team_caltech.jpg" alt="Team Caltech at DGC '08" width="400px">
