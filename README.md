@@ -19,11 +19,11 @@
 </table>
 </div>
 
-<!-- [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/3JzSZnHC)-->
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=999999&up_message=online&url=https%3A%2F%2Fdatasith.io%2F)](https://datasith.io/) 
-[![Gmail Badge](https://img.shields.io/badge/email-999999?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zabala@caltech.edu)](mailto:zabala@caltech.edu)
-[![LinkedIn](https://img.shields.io/badge/datasith-999999?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datasith)
-[![LinkedIn](https://img.shields.io/badge/datasith-999999?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/datasith)
+
+[![Website](https://img.shields.io/website-up-down-green-red/https/datasith.io?style=for-the-badge)](https://datasith.io/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zabala@caltech.edu)](mailto:zabala@caltech.edu)
+[![LinkedIn](https://img.shields.io/badge/datasith-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datasith)
+[![Twitter](https://img.shields.io/badge/datasith-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/datasith)
 <!--
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](link)
 -->
@@ -33,7 +33,18 @@
   <td>
     <h3>:robot: Studying Robot-Fly Visual Interactions</h3>
     <p>Together with <a href="https://github.com/peterpolidoro">@peterpolidoro</a>, we built a real-time, vision-based controlled, XY-stage to move a magnet within a chamber to study visually mediated responses of walking fruit flies. (<a href="https://pubmed.ncbi.nlm.nih.gov/22727703/">publication</a>)</p>
-    <a href="">:books: Learn more</a>
+    <p>
+      <p>Publications:</p>
+      <ul>
+        <li>
+          Zabala et al.,           
+          <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(12)00577-5">
+            "A simple strategy for detecting moving objects,"
+          </a>
+          Current Biology: Cell Press, 2012.          
+        </li>
+      </ul>
+    </p>
   </td>
   <td>
     <img src="img/rig_flyatar.jpg" alt="Flyatar Robot-Fly Interactions Rig" width="400px">
@@ -41,8 +52,20 @@
 </tr><tr>   
   <td>
     <h3>:fly: Tracking Insect Wings and Body Kinematics</h3>
-    <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume. (<a href="https://journals.biologists.com/jeb/article/212/9/1307/19160/Wing-and-body-motion-during-flight-initiation-in">publication</a>)</p>
-    <a href="">:books: Learn more</a>
+    <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume. 
+    </p>
+    <p>
+      <p>Publications:</p>
+      <ul>
+        <li>
+          Zabala et al.,           
+          <a href="https://journals.biologists.com/jeb/article/212/9/1307/19160/Wing-and-body-motion-during-flight-initiation-in">
+            "Wing and body motion during flight,"
+          </a>
+          Journal of Exp. Bio., 2009.
+        </li>
+      </ul>
+    </p>
   </td>
   <td>
     <img src="img/rig_flytrax.jpg" alt="Flytrax Motion Capture Rig" width="400px">
@@ -51,7 +74,28 @@
   <td>
     <h3>:racing_car: Team Caltech - DARPA Urban Challenge</h3>
     <p>Together with fellow students, post-docs, and professors, we built an autonomous ground vehicle capable of maneuvering a 60 mile course in a mock urban environment in under 6 hours.</p>
-    <a href="https://medium.com/@datasith/how-to-fall-in-love-with-computer-vision-4f899ff51ecd">:books: Learn more</a>
+    <p>
+      <p>Publications:</p>
+      <ul>
+        <li>
+          Zabala et al.,           
+          <a href="http://users.cms.caltech.edu/~murray/preprints/bur+07-dgc.pdf">
+            "Sensing, navigation and reasoning,"
+          </a>
+          DARPA Technical Report, 2007.
+        </li>
+      </ul>
+      <p>Articles:</p>
+      <ul>
+        <li>
+          <a href="https://medium.com/@datasith/how-to-fall-in-love-with-computer-vision-4f899ff51ecd">
+            "How to fall in love with CV,"
+          </a>
+          Medium, 2022 (last accessed).
+        </li>
+      </ul>    
+    </p>    
+    
   </td>
   <td>
     <img src="img/team_caltech.jpg" alt="Team Caltech at DGC '08" width="400px">
