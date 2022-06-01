@@ -24,9 +24,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zabala@caltech.edu)](mailto:zabala@caltech.edu)
 [![LinkedIn](https://img.shields.io/badge/datasith-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datasith)
 [![Twitter](https://img.shields.io/badge/datasith-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/datasith)
-<!--
-[![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](link)
--->
+[![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://github.com/datasith/datasith-resume.pdf)
 
 ### Projects
 <table><tr>
