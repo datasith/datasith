@@ -30,7 +30,7 @@
 <table><tr>
   <td>
     <h3>:robot: Studying Robot-Fly Visual Interactions</h3>
-    <p>Together with <a href="https://github.com/peterpolidoro">@peterpolidoro</a>, we built a real-time, vision-based controlled, XY-stage to move a magnet within a chamber to study visually mediated responses of walking fruit flies. (<a href="https://pubmed.ncbi.nlm.nih.gov/22727703/">publication</a>)</p>
+    <p>Together with <a href="https://github.com/peterpolidoro">@peterpolidoro</a>, we built a real-time, vision-based controlled, XY-stage to move a magnet within a chamber to study visually mediated responses of walking fruit flies.</p>
     <p>
       <p>Publications:</p>
       <ul>
@@ -99,8 +99,6 @@
     <img src="img/team_caltech.jpg" alt="Team Caltech at DGC '08" width="400px">
   </td>
 </tr></table>
-
-
 
 ### Tools and Tech
 <table>
