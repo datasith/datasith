@@ -19,12 +19,12 @@
 </table>
 </div>
 
-
-[![Website](https://img.shields.io/website-up-down-green-red/https/datasith.io?style=for-the-badge)](https://datasith.io/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:zabala@caltech.edu)](mailto:zabala@caltech.edu)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-FFFFFF?message=contact&style=for-the-badge&logo=gmail&logoColor=red&link=mailto:zabala@caltech.edu)](mailto:zabala@caltech.edu)
 [![LinkedIn](https://img.shields.io/badge/datasith-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datasith)
 [![Twitter](https://img.shields.io/badge/datasith-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/datasith)
-[![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://github.com/datasith/datasith-resume.pdf)
+[![YouTube](https://img.shields.io/badge/youtube-white?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/datasith)
+[![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://github.com/datasith/datasith/blob/main/datasith-resume.pdf)
+[![Website](https://img.shields.io/website-up-down-green-red/https/datasith.io?style=for-the-badge)](https://datasith.io/) 
 
 ### Projects
 <table><tr>
