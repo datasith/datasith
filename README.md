@@ -77,7 +77,7 @@
       <p>Publications:</p>
       <ul>
         <li>
-          Zabala et al.,           
+          Burdick et al.,           
           <a href="http://users.cms.caltech.edu/~murray/preprints/bur+07-dgc.pdf">
             "Sensing, navigation and reasoning,"
           </a>
@@ -87,6 +87,7 @@
       <p>Articles:</p>
       <ul>
         <li>
+          Zabala, F. 
           <a href="https://medium.com/@datasith/how-to-fall-in-love-with-computer-vision-4f899ff51ecd">
             "How to fall in love with CV,"
           </a>
