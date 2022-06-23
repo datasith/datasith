@@ -49,7 +49,7 @@
   </td>
 </tr><tr>   
   <td>
-    <h3>:fly: Tracking Insect Wings and Body Kinematics</h3>
+    <h3>:mosquito: Tracking Insect Wings and Body Kinematics</h3>
     <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume. 
     </p>
     <p>
