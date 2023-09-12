@@ -13,7 +13,7 @@
 <p>• My background is a mix of Electrical Engineering, Robotics, and Computer Vision </p>
 <p>• My Machine and Deep Learning interests are in Computer Vision applications such as Extended Reality and Autonomous Vechicles</p>
 <p>• I run a <b><a href="https://youtube.com/datasith">YouTube channel</a></b> to teach *anyone* about DIY Electronics and Data Science</p>
-<p>• When I'm not coding, I enjoy running 🏃 snowboarding 🏂 and playing/watching fútbol ⚽</p>
+<p>• When I'm not coding, I enjoy running 🏃 snowboarding 🏂 boxing 🥊 and playing/watching fútbol ⚽</p>
 </td>
 </tr>
 </table>
