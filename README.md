@@ -13,7 +13,7 @@
 <p>• My background is a mix of electrical engineering, robotics, and computer vision</p>
 <p>• My current interest lie on architecting computer vision solutions for geospatial applications</p>
 <p>• I (used to) run a <b><a href="https://youtube.com/datasith">YouTube channel</a></b> to teach *anyone* about DIY Electronics and Data Science</p>
-<p>• When I'm not coding (if ever), I enjoy running 🏃 snowboarding 🏂 boxing 🥊 and playing/watching fútbol ⚽</p>
+<p>• When I'm not coding (if ever), I enjoy running 🏃 snowboarding 🏂 boxing 🥊 and watching/playing fútbol ⚽</p>
 </td>
 </tr>
 </table>
