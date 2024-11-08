@@ -36,8 +36,7 @@
       <ul>
         <li>
           Zabala et al.,           
-          "<a href="https://www.cell.com/current-biology/fulltext/S0960-9822(12)00577-5">
-            A simple strategy for detecting moving objects</a>",
+          "<a href="https://www.cell.com/current-biology/fulltext/S0960-9822(12)00577-5">A simple strategy for detecting moving objects</a>",
           <i>Current Biology (Cell Press)</i>, 2012.
         </li>
       </ul>
@@ -56,8 +55,7 @@
       <ul>
         <li>
           Fontaine, Zabala et al.,           
-          "<a href="https://journals.biologists.com/jeb/article/212/9/1307/19160/Wing-and-body-motion-during-flight-initiation-in">
-            Wing and body motion during flight</a>",
+          "<a href="https://journals.biologists.com/jeb/article/212/9/1307/19160/Wing-and-body-motion-during-flight-initiation-in">Wing and body motion during flight</a>",
           <i>Journal of Exp. Bio.</i>, 2009.
         </li>
       </ul>
@@ -75,8 +73,7 @@
       <ul>
         <li>
           Burdick et al.,           
-          "<a href="http://users.cms.caltech.edu/~murray/preprints/bur+07-dgc.pdf">
-            Sensing, navigation and reasoning</a>", 
+          "<a href="http://users.cms.caltech.edu/~murray/preprints/bur+07-dgc.pdf">Sensing, navigation and reasoning</a>", 
           <i>DARPA Technical Report</i>, 2007.
         </li>
       </ul>
@@ -84,8 +81,7 @@
       <ul>
         <li>
           Zabala, F. 
-          "<a href="https://medium.com/@datasith/how-to-fall-in-love-with-computer-vision-4f899ff51ecd">
-            How to fall in love with CV</a>", 
+          "<a href="https://medium.com/@datasith/how-to-fall-in-love-with-computer-vision-4f899ff51ecd">How to fall in love with CV</a>", 
           <i>Medium</i>, 2022 (last accessed).
         </li>
       </ul>    
