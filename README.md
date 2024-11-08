@@ -30,7 +30,7 @@
 <table><tr>
   <td>
     <h3>:robot: Studying Robot-Fly Visual Interactions</h3>
-    <p>Together with <a href="https://github.com/peterpolidoro">@peterpolidoro</a>, we built a real-time, vision-based controlled, XY-stage to move a magnet within a chamber to study visually mediated responses of walking fruit flies.</p>
+    <p>Together with <a href="https://github.com/peterpolidoro">@peterpolidoro</a>, we built a real-time, vision-based controlled, XY-stage to move a magnet within a chamber to study visually mediated responses of <i>walking</i> fruit flies.</p>
     <p>
       <p>Publications:</p>
       <ul>
@@ -49,7 +49,7 @@
 </tr><tr>   
   <td>
     <h3>:mosquito: Tracking Insect Wings and Body Kinematics</h3>
-    <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume. 
+    <p>I built a 3D, high-speed video, auto-capture rig to observe visually mediated responses of <i>flying</i> fruit flies. The responses were elicited by a self-triggered LED chamber surrounding the flight volume. 
     </p>
     <p>
       <p>Publications:</p>
