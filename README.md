@@ -36,8 +36,8 @@
       <ul>
         <li>
           Zabala et al.,           
-          <a href="https://www.cell.com/current-biology/fulltext/S0960-9822(12)00577-5">
-            "A simple strategy for detecting moving objects"</a>,
+          "<a href="https://www.cell.com/current-biology/fulltext/S0960-9822(12)00577-5">
+            A simple strategy for detecting moving objects</a>",
           <i>Current Biology (Cell Press)</i>, 2012.
         </li>
       </ul>
