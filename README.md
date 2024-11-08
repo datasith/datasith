@@ -55,7 +55,7 @@
       <p>Publications:</p>
       <ul>
         <li>
-          Zabala et al.,           
+          Fontaine, Zabala et al.,           
           <a href="https://journals.biologists.com/jeb/article/212/9/1307/19160/Wing-and-body-motion-during-flight-initiation-in">
             "Wing and body motion during flight"</a>,
           <i>Journal of Exp. Bio.</i>, 2009.
