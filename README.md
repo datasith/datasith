@@ -26,7 +26,7 @@
 [![Resume](https://img.shields.io/badge/RESUME-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://github.com/datasith/datasith/blob/main/datasith-resume.pdf)
 [![Website](https://img.shields.io/website-up-down-green-red/https/datasith.io?style=for-the-badge)](https://datasith.io/) 
 
-### Projects
+### Selected Projects
 <table><tr>
   <td>
     <h3>:robot: Studying Robot-Fly Visual Interactions</h3>
