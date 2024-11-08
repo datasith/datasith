@@ -80,7 +80,7 @@
       <p>Articles:</p>
       <ul>
         <li>
-          Zabala, F. 
+          Zabala, F.,
           <a href="https://medium.com/@datasith/how-to-fall-in-love-with-computer-vision-4f899ff51ecd">How to fall in love with CV</a>,
           <i>Medium</i>, 2022 (last accessed).
         </li>
