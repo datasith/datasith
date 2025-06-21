@@ -24,7 +24,6 @@
 [![Kaggle](https://img.shields.io/badge/KAGGLE-FFFFFF?style=for-the-badge&logo=kaggle&logoColor=blue)](https://kaggle.com/thedatasith)
 [![YouTube](https://img.shields.io/badge/YOUTUBE-white?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/datasith)
 [![Resume](https://img.shields.io/badge/RESUME-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://github.com/datasith/datasith/blob/main/datasith-resume.pdf)
-[![Website](https://img.shields.io/website-up-down-green-red/https/datasith.io?style=for-the-badge)](https://datasith.io/) 
 
 ### Selected Projects
 <table><tr>
