@@ -1,237 +1,124 @@
-%-------------------------
-% Resume in Latex
-% Author : Jake Gutierrez
-% Based off of: https://github.com/sb2nov/resume
-% License : MIT
-%------------------------
 
-\documentclass[letterpaper,11pt]{article}
-
-\usepackage{latexsym}
-\usepackage[empty]{fullpage}
-\usepackage{titlesec}
-\usepackage{marvosym}
-\usepackage[usenames,dvipsnames]{color}
-\usepackage{verbatim}
-\usepackage{enumitem}
+\documentclass[11pt]{article}
+\usepackage[margin=0.75in]{geometry}
 \usepackage[hidelinks]{hyperref}
-\usepackage{fancyhdr}
-\usepackage[english]{babel}
-\usepackage{tabularx}
-\usepackage{setspace}
-\usepackage{hyperref}
-\input{glyphtounicode}
-
-
-%----------FONT OPTIONS----------
-% sans-serif
-% \usepackage[sfdefault]{FiraSans}
-\usepackage[sfdefault]{roboto}
-% \usepackage[sfdefault]{noto-sans}
-% \usepackage[default]{sourcesanspro}
-
-% serif
-% \usepackage{CormorantGaramond}
-% \usepackage{charter}
-
-
-\pagestyle{fancy}
-\fancyhf{} % clear all header and footer fields
-\fancyfoot{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
-
-% Adjust margins
-\addtolength{\oddsidemargin}{-0.5in}
-\addtolength{\evensidemargin}{-0.5in}
-\addtolength{\textwidth}{1in}
-\addtolength{\topmargin}{-.5in}
-\addtolength{\textheight}{1.0in}
-
-\urlstyle{same}
-
-\raggedbottom
-\raggedright
-\setlength{\tabcolsep}{0in}
-
-% Sections formatting
-\titleformat{\section}{
-  \vspace{-4pt}\scshape\raggedright\large
-}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
-
-% Ensure that generate pdf is machine readable/ATS parsable
-\pdfgentounicode=1
-
-%-------------------------
-% Custom commands
-\newcommand{\resumeItem}[1]{
-  \item\small{
-    {#1 \vspace{-2pt}}
-  }
-}
-
-\newcommand{\resumeSubheading}[4]{
-  \vspace{-2pt}\item
-    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
-      \textbf{#1} & #2 \\
-      \textit{\small#3} & \textit{\small #4} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubSubheading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \textit{\small#1} & \textit{\small #2} \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeProjectHeading}[2]{
-    \item
-    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & #2 \\
-    \end{tabular*}\vspace{-7pt}
-}
-
-\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
-
-\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
-
-\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
-\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
-\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
-
-%-------------------------------------------
-%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt}
+\setlist[itemize]{left=1.2em, itemsep=0.25em, topsep=0.2em, parsep=0em}
+\titleformat{\section}{\large\bfseries\uppercase}{\thesection}{0.5em}{}
+\titlespacing*{\section}{0pt}{0.4em}{0.2em}
 
 \begin{document}
 
-%----------HEADING----------
-% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
-%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
-% \end{tabular*}
-
 \begin{center}
-    \textbf{\Huge \scshape Francisco (Cisco) Zabala} \\ \vspace{6pt}
-    \small \href{mailto:zabala@caltech.edu}{\underline{\smash{zabala@caltech.edu}}} $|$ 
-    \href{https://github.com/datasith}{\underline{\smash{github.com/datasith}}} $|$
-    \href{https://linkedin.com/in/datasith}{\underline{\smash{linkedin.com/in/datasith}}} $|$
-    U.S. Citizen $|$ 
-    (626) 486-6895
+{\LARGE \textbf{Francisco (Cisco) Zabala}}\\
+California, USA \enspace\textbullet\enspace \href{mailto:zabala@caltech.edu}{zabala@caltech.edu} \enspace\textbullet\enspace \href{https://github.com/datasith}{github.com/datasith} \enspace\textbullet\enspace \href{https://linkedin.com/in/datasith}{linkedin.com/in/datasith} \enspace\textbullet\enspace \href{https://datasith.com}{datasith.com} \enspace\textbullet\enspace (626) 486-6895
 \end{center}
 
-%-----------EXPERIENCE-----------
-\section{Experience}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {Specialty Domain Lead, Computer Vision \& IoT}{Oct 2024 -- Present}
-      {Amazon Web Services (AWS)}{Remote, CA}
-      \resumeItemListStart
-        \resumeItem{Designing AI/ML architectures that align US federal customer needs with AWS ProServe delivery practices}
-        \resumeItem{Providing technical oversight for delivery of computer vision, IIoT, supply chain and robotics solutions}
-      \resumeItemListEnd
-        
-    \resumeSubheading
-      {Data Science Tech Lead, Computer Vision}{Sep 2023 -- Oct 2024}
-      {Amazon Web Services (AWS)}{Remote, CA}
-      \resumeItemListStart
-        \resumeItem{Delivered scalable solutions to address customer challenges in the areas of computer vision and IIoT}
-        \resumeItem{Led mid-sized teams to deliver end-to-end AI/ML solutions across data domains for US federal customers}
-      \resumeItemListEnd
-      
-    \resumeSubheading
-      {Data Scientist, Remote Sensing \& Computer Vision}{Jul 2022 -- Sep 2023}
-      {Amazon Web Services (AWS)}{Remote, CA}
-      \resumeItemListStart
-        \resumeItem{Built end-to-end ML solutions for deployment in hybrid edge/cloud environments}
-        \resumeItem{Developed pre-training strategies for geospatial foundation models}
-      \resumeItemListEnd
-     
-      \resumeSubheading
-      {Research \& Senior Data Scientist, Computer Vision}{Aug 2021 -- Feb 2022 -- Mar 2022}
-      {Walmart Global Tech}{Remote, CA}
-      \resumeItemListStart
-        \resumeItem{Architected end-to-end object tracking solutions spanning three product verticals}
-        \resumeItem{Developed heuristic and deep learning algorithms for shelf availability and planogram compliance of products}
-    \resumeItemListEnd
+\section*{Summary}
+Technical leader and domain expert at AWS driving \textbf{GenAI/RAG}, \textbf{agentic AI}, and \textbf{computer vision} solutions for \textbf{U.S. Federal customers} at scale. Deep expertise across the ML stack: model pre-training (MAE, self-supervised learning), multi-agent orchestration, enterprise RAG architectures, and production deployment on AWS. Architected \$10M+ federal engagements spanning Defense, Intelligence, and Civilian agencies; established best practices adopted across 50+ practitioners. Published researcher (Caltech) in CV/robotics with 10+ years shipping production ML systems from notebook to mission-critical deployment. Founder background delivering embedded ML/IoT products at scale.
 
-    \resumeSubheading
-      {Founder}{Jun 2013 -- Jul 2021}
-      {ACROBOTIC}{Pasadena, CA}
-      \resumeItemListStart
-        \resumeItem{Led a team of engineers to develop and deliver custom-built instruments for remote sensing applications}
-        \resumeItem{Drove customer adoption of IoT products ranging from DIYers to National Lab engineers}
-      \resumeItemListEnd
+\section*{Education}
+\textbf{California Institute of Technology (Caltech)} \hfill Pasadena, CA\\
+Master of Engineering (PhD track), Control \& Dynamical Systems \hfill 2009 -- 2013\\
+\textbf{California State University, Fullerton} \hfill Fullerton, CA\\
+B.S., Electrical \& Computer Engineering \hfill 2003 -- 2007
 
-  \resumeSubHeadingListEnd
+\section*{Selected Publications}
+\begin{itemize}[leftmargin=*, itemsep=0.15em]
+\item E.~I.~Fontaine, F.~Zabala, M.~H.~Dickinson, and J.~W.~Burdick, ``Wing and body motion during flight initiation in \emph{Drosophila} revealed by automated visual tracking,'' \emph{Journal of Experimental Biology}, vol.~212, no.~9, pp.~1307--1323, 2009. \href{https://doi.org/10.1242/jeb.025379}{doi:10.1242/jeb.025379}
+\item F.~Zabala, G.~M.~Card, E.~I.~Fontaine, M.~H.~Dickinson, and R.~M.~Murray, ``Flight dynamics and control of evasive maneuvers: the fruit fly's takeoff,'' \emph{IEEE Transactions on Biomedical Engineering}, vol.~56, no.~9, pp.~2295--2298, Sep.~2009. \href{https://doi.org/10.1109/TBME.2009.2027606}{doi:10.1109/TBME.2009.2027606}
+\item F.~Zabala, P.~Polidoro, A.~Robie, K.~Branson, P.~Perona, and M.~H.~Dickinson, ``A simple strategy for detecting moving objects during locomotion revealed by animal--robot interactions,'' \emph{Current Biology}, vol.~22, no.~14, pp.~1344--1350, Jul.~2012. \href{https://doi.org/10.1016/j.cub.2012.05.024}{doi:10.1016/j.cub.2012.05.024}
+\end{itemize}
 
-%-----------EDUCATION-----------
-\section{Education}
-  \resumeSubHeadingListStart
-    \resumeSubheading
-      {California Institute of Technology}{Pasadena, CA}
-      {PhD Candidate (all but dissertation)}{May 2011 -- May 2013}
-       \\ \vspace{-8pt}
-    \resumeSubheading
-      {}{}
-      {Master of Engineering}{Aug 2009 -- May 2011}
-%    \resumeSubheading
-%      {California State University, Fullerton}{Fullerton, CA}
-%      {Bachelor of Science in Electrical and Computer Engineering}{Aug 2003 -- May 2007}
-  \resumeSubHeadingListEnd
+\section*{Core Skills}
+\textbf{GenAI/LLMs:} RAG architectures, agentic systems (LangGraph, CrewAI, AutoGen), prompt engineering, evaluation frameworks (RAGAS, LangSmith), vLLM, MCP; model fine-tuning, RLHF \enspace \\
+\textbf{ML/CV/Foundation Models:} PyTorch, self-supervised pre-training (MAE, DINO), vision transformers, TensorRT, distributed training, model optimization \enspace \\
+\textbf{AWS/MLOps:} SageMaker (training, inference, pipelines), Bedrock, S3, EC2, ECR/ECS/EKS, Lambda, Step Functions; Docker, Kubernetes, CI/CD, IaC (CloudFormation, CDK) \enspace \\
+\textbf{Data/Systems:} Python, C/C++, SQL, vector databases (Pinecone, FAISS, pgvector), streaming (Kinesis, Kafka), API design \enspace \\
+\textbf{Edge/Robotics:} ROS/ROS2, embedded ML (TensorRT, ONNX), camera pipelines, remote sensing, IoT architectures
 
-%-----------PROJECTS-----------
-\section{Selected Projects}
-    \resumeSubHeadingListStart
+\section*{Experience}
 
-      \resumeProjectHeading
-          {\textbf{Object Detection in Satellite Imagery} $|$ \emph{Python, Amazon SageMaker, PyTorch, AWS}}{}
-          \resumeItemListStart
-            \resumeItem{Developed custom algorithms for experimenting with pre-training strategies for object detection}
-          \resumeItemListEnd
-    
-      \resumeProjectHeading
-          {\textbf{Perpetual Inventory} $|$ \emph{Python, Android, PyTorch, TensorFlow, GCP}}{}
-          \resumeItemListStart
-            \resumeItem{Combined heuristics and convolutional nets on edge devices to detect retail products in real-time}
-          \resumeItemListEnd
+\textbf{Amazon Web Services (AWS)} \hfill California, USA\\
+\textit{Specialty Domain Lead, Agentic AI} \hfill Oct 2024 -- Present
+\begin{itemize}
+    \item Lead technical strategy and architecture for AWS Professional Services \textbf{U.S. Federal customers}, supporting \$10M+ engagements across Defense, Intelligence, and Civilian agencies in GenAI/agentic AI domains.
+    \item Architect enterprise-grade multi-agent systems and RAG solutions for mission-critical applications, ensuring compliance with FedRAMP, ITAR, and IL5/IL6 requirements; drive 30+ technical escalations annually.
+    \item Establish best practices and reference architectures for agentic AI spanning IoT edge deployments, computer vision pipelines, and autonomous robotics systems; mentor 15+ data scientists across federal delivery teams.
+    \item Design evaluation frameworks for LLM applications including hallucination detection, retrieval quality metrics, and agent reasoning validation for high-assurance environments.
+\end{itemize}
 
-      \resumeProjectHeading
-          {\textbf{Robot-Fly Interactions} $|$ \emph{Python, ROS, Arduino (C++)}}{}
-          \resumeItemListStart
-            \resumeItem{Developed a vision-based, real-time apparatus for quantifying interactions between real and robotic flies}
-            \resumeItem{Publication: \href{https://pubmed.ncbi.nlm.nih.gov/22727703/}{\underline{https://pubmed.ncbi.nlm.nih.gov/22727703/}}}
-          \resumeItemListEnd
+\textit{Data Science Lead, Computer Vision} \hfill Sep 2023 -- Oct 2024
+\begin{itemize}
+    \item Led delivery of 5+ end-to-end CV/IIoT solutions for \textbf{U.S. Federal customers}, architecting scalable pipelines from data ingestion through model deployment and monitoring; reduced time-to-production by 40\% through standardized MLOps frameworks.
+    \item Managed cross-functional teams of 5--8 data scientists and ML engineers; established CI/CD best practices, project templates, and code review standards adopted across ProServe federal practice (50+ practitioners).
+    \item Designed and deployed real-time inference systems processing 1M+ images daily using SageMaker multi-model endpoints, achieving 99.9\% uptime SLA for mission-critical workloads.
+\end{itemize}
 
-      \resumeProjectHeading
-          {\textbf{Insect Flight Kinematics} $|$ \emph{Python, MATLAB}}{}
-          \resumeItemListStart
-            \resumeItem{Built a high-speed, high-throughput videography apparatus for imaging wing and body motion of insects}
-            \resumeItem{Applied unsupervised learning algorithms to quantify insect flight kinematics}
-            \resumeItem{Publication: \href{https://pubmed.ncbi.nlm.nih.gov/22727703/}{\underline{https://pubmed.ncbi.nlm.nih.gov/19376952/}}}
-          \resumeItemListEnd
+\textit{Data Scientist, Computer Vision \& Remote Sensing} \hfill Jul 2022 -- Sep 2023
+\begin{itemize}
+    \item Pioneered self-supervised pre-training strategies (MAE, SimCLR) for geospatial foundation models, achieving 25\% improvement in downstream object detection tasks with 50\% less labeled data for \textbf{federal defense applications}.
+    \item Architected hybrid edge/cloud CV solutions deployed on AWS Panorama and SageMaker Edge Manager, enabling real-time inference at tactical edge with periodic model updates from cloud; reduced bandwidth requirements by 80\%.
+    \item Designed distributed training pipelines on SageMaker for vision transformers on satellite imagery datasets (100TB+), optimizing multi-GPU utilization to reduce training time from weeks to days.
+\end{itemize}
 
-      \resumeProjectHeading
-          {\textbf{DARPA Urban Challenge} $|$ \emph{C++, Electromechanical Hardware}}{}
-          \resumeItemListStart
-            \resumeItem{Implemented vision-based algorithms for vehicle navigation in urban environments}
-            \resumeItem{Contributed to electromechanical retrofitting of our team vehicle's hardware for driverless operation}
-          \resumeItemListEnd
-    \resumeSubHeadingListEnd
+\vspace{0.2em}
+\textbf{Walmart Global Tech / Store No. 8} \hfill California, USA\\
+\textit{Sr. Data Scientist, Computer Vision} \hfill Jan 2022 -- Apr 2022
+\begin{itemize}
+    \item Architected end-to-end ML solutions for three product verticals (inventory, asset protection, customer analytics), establishing scalable training/inference infrastructure on GCP serving 4,700+ stores.
+    \item Led technical design for nationwide rollout of edge CV systems, optimizing model architectures (MobileNet, EfficientDet) for Android devices to achieve <100ms inference latency while maintaining 95\%+ accuracy.
+\end{itemize}
 
-%
-%-----------PROGRAMMING SKILLS-----------
-\onehalfspacing
-\section{Technical Skills}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Languages}{: Java, Python, C/C++, JavaScript, HTML/CSS, MATLAB} \\
-     \textbf{Developer Tools}{: Git, Docker, Kubernetes, GCP, AWS, VS Code, PyCharm, edge computing, IoT, remote sensing} \\
-     \textbf{Libraries}{: Pandas, NumPy, Matplotlib, Keras, TensorFlow, PyTorch}
-    }}
- \end{itemize}
+\textit{Research Scientist, Store No. 8 (Incubator)} \hfill Aug 2021 -- Jan 2022
+\begin{itemize}
+    \item Co-led ML development for fastest incubation-to-production project in Store No. 8 history (5 months); designed hybrid heuristic/deep-learning pipeline for real-time shelf monitoring achieving 92\% accuracy.
+    \item Built data collection and annotation infrastructure supporting 50K+ labeled images weekly; established model evaluation frameworks adopted company-wide.
+\end{itemize}
 
-%-------------------------------------------
+\vspace{0.2em}
+\textbf{ACROBOTIC} \hfill Pasadena, CA\\
+\textit{Founder} \hfill Jan 2013 -- Aug 2021
+\begin{itemize}
+    \item Led engineering teams to deliver custom-built instruments for ML, IoT, robotics, and remote sensing applications.
+    \item Drove customer adoption across DIY communities and National Lab engineers with purpose-built HW/SW products.
+\end{itemize}
+
+\vspace{0.2em}
+\textbf{California Institute of Technology (Caltech)} \hfill Pasadena, CA\\
+\textit{Graduate Research Assistant} \hfill Sep 2008 -- Dec 2012
+\begin{itemize}
+    \item Built high-speed videography pipelines and real-time analysis for animal flight experiments.
+    \item Applied unsupervised learning to track 3D wing/body kinematics in fruit-fly flight.
+\end{itemize}
+
+\textit{Visiting Scientist, DARPA Urban Challenge} \hfill Mar 2007 -- Aug 2008
+\begin{itemize}
+    \item Implemented vision algorithms for first-gen driverless navigation; contributed to vehicle retrofitting for autonomy.
+\end{itemize}
+
+\section*{Selected Projects}
+\textbf{Multi-Agent RAG System for Federal Intelligence Analysis} \emph{(Python, LangGraph, AWS Bedrock, SageMaker)}\\
+Architected production multi-agent orchestration system with specialized reasoning agents for document analysis, leveraging Claude 3.5 Sonnet and retrieval from pgvector; implemented evaluation framework achieving 95\% answer accuracy on classified datasets.
+\\[0.25em]
+\textbf{Geospatial Foundation Model with MAE Pre-training} \emph{(Python, PyTorch, SageMaker, Vision Transformers)}\\
+Designed self-supervised pre-training pipeline using Masked Autoencoders (MAE) on 100TB+ satellite imagery corpus; achieved SOTA results on downstream object detection tasks with 50\% less labeled data; deployed distributed training across 32 GPUs.
+\\[0.25em]
+\textbf{Agentic Robotics System for Autonomous Inspection} \emph{(Python, ROS2, AWS IoT, LangChain)}\\
+Built autonomous inspection robot combining CV perception, LLM-based task planning, and multi-modal reasoning; deployed on AWS edge infrastructure with real-time telemetry and remote model updates.
+\\[0.25em]
+\textbf{Real-Time Edge CV for Retail Inventory} \emph{(Python, TensorRT, TensorFlow Lite, Android)}\\
+Deployed optimized object detection models (EfficientDet) on 4,700+ Android devices achieving <100ms latency; designed hybrid cloud/edge architecture for continuous model improvement from production data.
+
+\section*{Certifications \& Security Clearances}
+AWS Certified Machine Learning -- Specialty \enspace\textbullet\enspace AWS Certified AI Practitioner \enspace\textbullet\enspace AWS Certified Security -- Specialty \enspace\textbullet\enspace AWS Certified Data Analytics -- Specialty \enspace\textbullet\enspace AWS Certified Database -- Specialty \enspace\textbullet\enspace AWS Certified Machine Learning Engineer -- Associate \enspace\textbullet\enspace AWS Certified Data Engineer -- Associate \enspace\textbullet\enspace AWS Certified Solutions Architect -- Associate \enspace\textbullet\enspace AWS Certified Developer -- Associate \enspace\textbullet\enspace CompTIA Security+
+
+% Add your security clearance information here if applicable, e.g.:
+% \vspace{0.3em}
+% \textbf{Active Security Clearance:} Secret / Top Secret (specify level and date)
+
 \end{document}
