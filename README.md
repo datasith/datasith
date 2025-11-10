@@ -9,10 +9,9 @@
 </td>  
 <td>
 <img width="825px" height="1">
-<p>• I am a data scientist (by day).</p>
+<p>• I am a data scientist.</p>
 <p>• My background is a mix of electrical engineering, robotics, and computer vision.</p>
-<p>• My current interests lie on building computer vision architectures using hybrid (edge-cloud) infra.</p>
-<p>• I (used to) run a <b><a href="https://youtube.com/datasith">YouTube channel</a></b> to teach *anyone* about DIY electronics and data science.</p>
+<p>• My current interests lie on leading business units focused on computer vision architectures using hybrid (edge-cloud) infra.</p>
 <p>• When I'm not coding I enjoy running 🏃 snowboarding 🏂 boxing 🥊 and watching/playing fútbol ⚽.</p>
 </td>
 </tr>
