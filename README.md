@@ -5,7 +5,7 @@
 <div>
 <table><tr>
 <td  style="width:200px">
-<img width="225px" src="img/pfp.jpg">
+<img width="225px" src="img/cisco_zabala_sm.png">
 </td>  
 <td>
 <img width="825px" height="1">
