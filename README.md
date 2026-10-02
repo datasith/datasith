@@ -9,10 +9,10 @@
 </td>  
 <td>
 <img width="825px" height="1">
-<p>• I am a data scientist.</p>
-<p>• My background is a mix of electrical engineering, robotics, and computer vision.</p>
-<p>• My current interests lie on leading business units focused on computer vision architectures using hybrid (edge-cloud) infra.</p>
-<p>• When I'm not coding I enjoy running 🏃 snowboarding 🏂 boxing 🥊 and watching/playing fútbol ⚽.</p>
+<p>• I build applied AI systems.</p>
+<p>• My background spans electrical engineering, robotics, computer vision, and cloud architecture.</p>
+<p>• My current interests focus on how agents use tools, reason over data, and work alongside people to solve complex (useful) challenges.</p>
+<p>• Outside of work: I enjoy running 🏃 snowboarding 🏂 boxing 🥊 and watching/playing fútbol ⚽.</p>
 </td>
 </tr>
 </table>
